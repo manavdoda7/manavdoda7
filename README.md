@@ -4,8 +4,6 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=manavdoda7&color=green)
 
-
-
 <!--
 **manavdoda7/manavdoda7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
