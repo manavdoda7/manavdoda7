@@ -1,5 +1,8 @@
-### Hi there 👋, I am Manav Doda
+### <h1>Hi there 👋, I am Manav Doda</h1>
 [![Manav's github stats](https://github-readme-stats.vercel.app/api?username=manavdoda7)](https://github.com/manavdoda7/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/[manavdoda7])
+
+
 <!--
 **manavdoda7/manavdoda7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
