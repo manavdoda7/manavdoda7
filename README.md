@@ -1,7 +1,7 @@
 ### <h1>Hi there 👋, I am Manav Doda</h1>
 
-<span>[![Manav's github stats](https://github-readme-stats.vercel.app/api?username=manavdoda7)](https://github.com/manavdoda7/github-readme-stats)</span>
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavdoda7&layout=compact)](https://github.com/manavdoda7/github-readme-stats)</span>
+[![Manav's github stats](https://github-readme-stats.vercel.app/api?username=manavdoda7)](https://github.com/manavdoda7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavdoda7&layout=compact)](https://github.com/manavdoda7/github-readme-stats)
 <br>
 ![](https://komarev.com/ghpvc/?username=manavdoda7&color=green)
 
