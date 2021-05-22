@@ -2,14 +2,13 @@
 
 [![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://manavdoda7.github.io/My-Portfolio/)
 
-
+---
 ## I'm a Programmer, Web Developer and Designer!!
 
 [![Manav's github stats](https://github-readme-stats.vercel.app/api?username=manavdoda7)](https://github.com/manavdoda7/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavdoda7&layout=compact)](https://github.com/manavdoda7/github-readme-stats)
-<br>
-![](https://komarev.com/ghpvc/?username=manavdoda7&color=green)
 
+---
 
 
 
@@ -57,3 +56,5 @@
 <br />
 
 ---
+
+![](https://komarev.com/ghpvc/?username=manavdoda7&color=green)
