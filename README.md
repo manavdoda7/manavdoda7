@@ -1,6 +1,6 @@
 ### Hi there, I'm Manav Doda 👋
 
-[![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://manavdoda7.github.io/My-Portfolio/)
+[![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mdoda.herokuapp.com/)
 
 ---
 ## I'm a Programmer, Web Developer and Designer!!
