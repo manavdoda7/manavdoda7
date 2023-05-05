@@ -28,7 +28,7 @@
 <a href="https://www.facebook.com/manav.doda.54/">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a> 
-<a href="https://www.instagram.com/manav_doda/">
+<a href="https://www.instagram.com/manavdoda7/">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://wa.me/918968437500">
